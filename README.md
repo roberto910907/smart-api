@@ -12,7 +12,7 @@ Generate a Laravel API in minutes
 You can install the package via composer:
 
 ```bash
-composer require roberto910907/smart-api
+composer require softdevel/smart-api
 ```
 
 You can publish the config file with:
