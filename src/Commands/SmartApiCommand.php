@@ -1,6 +1,6 @@
 <?php
 
-namespace SmartApi\SmartApi\Commands;
+namespace SmartApi\Commands;
 
 use Illuminate\Console\Command;
 

@@ -4,7 +4,7 @@ namespace SmartApi;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use SmartApi\SmartApi\Commands\SmartApiCommand;
+use SmartApi\Commands\SmartApiCommand;
 
 class SmartApiServiceProvider extends PackageServiceProvider
 {
